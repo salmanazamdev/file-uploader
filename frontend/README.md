@@ -30,7 +30,7 @@ Includes backend setup with **Express.js** for handling file storage.
 
 ```bash
 # Clone repo
-git clone https://github.com/salmanazamdev/media-file-uploader.git
+git clone https://github.com/salmanazamdev/file-uploader.git
 
 cd frontend
 npm install
