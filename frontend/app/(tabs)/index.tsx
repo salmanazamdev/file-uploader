@@ -15,7 +15,7 @@ export default function App() {
           style={styles.button}
           onPress={() => router.push("/features/uploadFiles")} 
         >
-          <Text style={styles.buttonText}>Upload Files</Text>
+          <Text style={styles.buttonText}>Upload Files Here</Text>
         </TouchableOpacity>
 
       </ScrollView>
